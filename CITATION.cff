@@ -1,17 +1,11 @@
 cff-version: 1.2.0
-message: "If you use these replication materials, please cite the associated article."
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Tonelli"
   given-names: "Simone"
   orcid: "https://orcid.org/0000-0002-2827-6127"
-- family-names: "Durazzi"
-  given-names: "Niccolo"
-  orcid: "https://orcid.org/0000-0001-7581-5595"
-- family-names: "Rathgeb"
-  given-names: "Philip"
-  orcid: "https://orcid.org/0000-0001-6513-5983"
-title: "Skills and Far-right Support: How Education and Training Systems Moderate Voting Behaviour in The Knowledge Economy"
+title: "Replication material for: Skills and Far-right Support: How Education and Training Systems Moderate Voting Behaviour in The Knowledge Economy"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-journal: "Journal of European Public Policy"
-status: in-press
+doi:
+date-released: 2026-09-11
+url: "https://github.com/simonetonelli-hub/Skills-and-Far-right-Support"
